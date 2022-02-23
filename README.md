@@ -126,3 +126,10 @@ Repository to keep track of project ideas. Most of them are dumb, I won't be off
 - [ ] Search enghine for filesystem with Gnome, or something
 - [ ] Contribute to Vlang
 - [ ] Browser + IDE in one programm
+
+## Compilers / Programming Languages
+- [ ] Create a compiled/interpreted language with multiple dispatch (specifically for state-heavy programs) - see CLOS generic functions
+- [ ] Machine learning LLVM code optimizer
+- [ ] Static type deductive language (see Crystal) with partial compiling and dynamic loading (better decide with GC first)
+- [ ] Programming language for creating programming languages
+- [ ] Create own Heap interface and Garbage Collection
